@@ -2518,7 +2518,7 @@ to 1.
 
 @item avcintra-class (@emph{class})
 Configure the encoder to generate AVC-Intra.
-Valid values are 50,100 and 200
+Valid values are 50,100,200, 300 and 480
 
 @item bluray-compat (@emph{bluray-compat})
 Configure the encoder to be compatible with the bluray standard.
